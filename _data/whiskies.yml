@@ -1,0 +1,170 @@
+distilleries:
+  - name: Aberlour
+    whiskies:
+      - name: Casg Annamh
+  - name: Aerstone
+    whiskies:
+      - name: 10 Year Old Land Cask
+  - name: Ailsa Bay
+    whiskies:
+      - name: Sweet Smoke Release 1.2
+  - name: Allt-A-Bhainne
+    whiskies:
+      - name: Single Malt Whisky
+  - name: Ardbeg
+    whiskies:
+      - name: 10 Year Old
+      - name: Blaaack (Committee Edition)
+      - name: Grooves (Committee Edition)
+      - name: Traigh Bhan 19 (no 1)
+      - name: Uigedail
+  - name: Bruichladdich
+    whiskies:
+      - name: Octomore 7.1
+      - name: Octomore 11.1
+      - name: Port Charlotte 10
+  - name: Buffalo Trace
+    whiskies:
+      - name: Stagg Jr
+  - name: Bunnahabhain 
+    whiskies:
+      - name: Stiuireadair
+      - name: Toiteach A Dha
+  - name: Bushmills
+    whiskies:
+      - name: Steamship Sherry Cask
+  - name: Caol Ila 
+    whiskies:
+      - name: Moch
+  - name: Cardhu
+    whiskies:
+      - name: Gold
+  - name: Cutty Sark
+    whiskies:
+      - name: Prohibition
+  - name: Douglas Laing
+    whiskies:
+      - name: Timerous Beastie
+  - name: Drumshanbo
+    whiskies:
+      - name: Single Pot Still
+  - name: Echilinville
+    whiskies:
+      - name: Dunville's 10 Year Old PX Cask
+      - name: Feckin' Unbelievable Irish Whisky
+  - name: Edradour
+    whiskies:
+      - name: Natural Cask Strength Single Malt (Distillery Exclusive)
+  - name: Flatnöse
+    whiskies:
+      - name: Blendeed Malt Scotch Whisky
+  - name: Glendalough
+    whiskies:
+      - name: Triple Barrel (Vineyard Bottling)
+      - name: 13 Mizunara finish
+      - name: Single Cask Grand Cru Burgundy Cask Finish
+  - name: Glenfiddich
+    whiskies:
+      - name: 12 Year Old
+      - name: 1980s bottling
+      - name: Fire and Cane
+  - name: Glengrant
+    whiskies:
+      - name: 27 Year Old
+  - name: Glenmorangie
+    whiskies:
+      - name: 12 Year Old Lasanta Sherry Cask Finish
+  - name: Glen Scotia
+    whiskies:
+      - name: Double Cask Single Malt
+  - name: Heaven Hill/Higginbottom bottling
+    whiskies:
+      - name: 8 Year Old
+  - name: Highland Park
+    whiskies:
+      - name: Viking Honour 12
+  - name: Ichiro's Malt
+    whiskies:
+      - name: Wine Wood Reserve
+  - name: Jameson
+    whiskies:
+      - name: Black Barrel
+  - name: Johnnie Walker
+    whiskies:
+      - name: Blue
+  - name: Jura
+    whiskies:
+      - name: Journey
+  - name: Kinahan's
+    whiskies:
+      - name: Small Batch
+  - name: Lagavulin
+    whiskies:
+      - name: Double Matured 2014 Bottling
+  - name: Laphroaig 
+    whiskies:
+      - name: 10 Year Old
+      - name: Brodir
+      - name: Select Cask
+  - name: Larceny
+    whiskies:
+      - name: 92 Proof
+  - name: Longmorn/Signatory Bottling
+    whiskies:
+      - name: 18 Year Old 2002 (Cask Strength; Cask 800626)
+  - name: Macallan
+    whiskies:
+      - name: Concept 1
+  - name: Mackmyra
+    whiskies:
+      - name: Björksav
+      - name: Bruckwhisky
+      - name: Svensk Ek
+  - name: Matt D'Arcy
+    whiskies:
+      - name: 10 Year Old
+      - name: 17 Year Old
+  - name: Middleton
+    whiskies:
+      - name: Redspot
+  - name: Millstone/That Boutique-y Whisky Co
+    whiskies:
+      - name: 6 Year Old
+  - name: Nikka
+    whiskies:
+      - name: From the Barrel
+      - name: Super Rare
+  - name: Oban
+    whiskies:
+      - name: 14 Year Old
+  - name: Old Pulteney
+    whiskies:
+      - name: 12 Year Old
+  - name: Penderyn
+    whiskies:
+      - name: Madeira Finish
+      - name: Myth
+  - name: Redbreast
+    whiskies:
+      - name: 12 Year Old
+      - name: Lustau Edition
+  - name: Strathila
+    whiskies:
+      - name: 12 Year Old
+  - name: Springbank
+    whiskies:
+      - name: 10 Year Old
+  - name: Talisker
+    whiskies:
+      - name: Storm
+  - name: Teeling
+    whiskies:
+      - name: Brabazon 14 Year Old (Series 3)
+      - name: Small Batch
+      - name: Stout Cask
+  - name: Tullibardine
+    whiskies:
+      - name: 225 Sauternes finish
+  - name: Yushan
+    whiskies:
+      - name: Sherry Cask

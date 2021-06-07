@@ -1,0 +1,69 @@
+---
+title: Brompton Whiskey Salon
+description: 
+---
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+    <title>{{ page.title }}</title>
+    <meta name="description" content="{{ page.description }}">
+
+    <link rel="stylesheet" href="/css/site.css" type="text/css" media="all" />
+
+      <!--[if lt IE 9]>
+      <![endif]-->
+  </head>
+
+  <body>
+
+  <main>
+    <section class="top-matter">
+      <div>
+        <img src="assets/glencairn.png" />
+      </div>
+      <header>
+        <h1>{{ page.title }}
+          <span>{{ page.description }}</span>
+        </h1>
+      </header>
+    </section>
+
+  {% for distillery in site.data.whiskies.distilleries %}
+    <section class="experience">
+      <header>
+        <h3>{{ distillery.name }}</h3>
+      </header>
+      <ul>
+        {% for whiskey in distillery.whiskies %}
+        <li>{{ whiskey.name }}</li>
+        {% endfor %}
+      </ul>
+    </section>
+  {% endfor %}
+    
+  </main>
+
+  <footer>
+    <div class="wrapper">
+      <section>
+        <header>
+        </header>
+        <div>
+          <ul class="unstyled">
+            <li>
+              <ul aria-label="Built with" class="inline">
+                <li>Jekyll</li>
+              </ul>
+            </li>
+            <li>Hosted on Github Pages</li>
+          </ul>
+        </div>
+      </section>
+    </div>
+  </footer>
+
+  </body>
+</html>
