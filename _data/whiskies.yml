@@ -57,12 +57,15 @@ distilleries:
       - name: Natural Cask Strength Single Malt (Distillery Exclusive)
   - name: Flatnöse
     whiskies:
-      - name: Blendeed Malt Scotch Whisky
+      - name: Blended Malt Scotch Whisky
   - name: Glendalough
     whiskies:
       - name: Triple Barrel (Vineyard Bottling)
       - name: 13 Mizunara finish
       - name: Single Cask Grand Cru Burgundy Cask Finish
+  - name: Glenfairn
+    whiskies:
+      - name: Speyside Single Malt
   - name: Glenfiddich
     whiskies:
       - name: 12 Year Old
@@ -115,6 +118,7 @@ distilleries:
   - name: Macallan
     whiskies:
       - name: Concept 1
+      - name: 12 Year Old Double Cask
   - name: Mackmyra
     whiskies:
       - name: Björksav
