@@ -11,6 +11,9 @@ distilleries:
   - name: Allt-A-Bhainne
     whiskies:
       - name: Single Malt Whisky
+  - name: Angel's Envy
+    whiskies:
+      - name: Angel's Envy Bourbon
   - name: Ardbeg
     whiskies:
       - name: 10 Year Old
@@ -39,6 +42,9 @@ distilleries:
   - name: Cardhu
     whiskies:
       - name: Gold
+  - name: Copeland
+    whiskies:
+      - name: Merchants Quay Blended Irish Whiskey
   - name: Cutty Sark
     whiskies:
       - name: Prohibition
@@ -92,6 +98,9 @@ distilleries:
   - name: Jameson
     whiskies:
       - name: Black Barrel
+  - name: John Distilleries
+    whiskies:
+      - name: Paul John Classic Select Cask
   - name: Johnnie Walker
     whiskies:
       - name: Blue
@@ -128,12 +137,11 @@ distilleries:
     whiskies:
       - name: 10 Year Old
       - name: 17 Year Old
+      - name: Old Newry limited edition
   - name: Middleton
     whiskies:
-      - name: Redspot
-  - name: Millstone/That Boutique-y Whisky Co
-    whiskies:
-      - name: 6 Year Old
+      - name: Red Spot
+      - name: Green Spot
   - name: Nikka
     whiskies:
       - name: From the Barrel
@@ -152,6 +160,12 @@ distilleries:
     whiskies:
       - name: 12 Year Old
       - name: Lustau Edition
+  - name: Sailor's Home
+    whiskies:
+      - name: The Haven Single Pot Still
+  - name: Starward
+    whiskies: 
+      - name: Left-Field Single Malt Australian Whisky
   - name: Strathila
     whiskies:
       - name: 12 Year Old
@@ -166,6 +180,10 @@ distilleries:
       - name: Brabazon 14 Year Old (Series 3)
       - name: Small Batch
       - name: Stout Cask
+  - name: That Boutique-y Whisky Co
+    whiskies:
+      - name: Slyrs 3 Year Old
+      - name: Millstone 6 Year Old
   - name: Tullibardine
     whiskies:
       - name: 225 Sauternes finish
