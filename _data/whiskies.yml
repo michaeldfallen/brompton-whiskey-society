@@ -1,4 +1,7 @@
 distilleries:
+  - name: Arran
+    whiskies:
+      - name: Machrie Moor Cask Strength
   - name: Aberlour
     whiskies:
       - name: Casg Annamh
@@ -26,17 +29,19 @@ distilleries:
       - name: Octomore 7.1
       - name: Octomore 11.1
       - name: Port Charlotte 10
+      - name: The Classic Laddie
   - name: Buffalo Trace
     whiskies:
       - name: Stagg Jr
-  - name: Bunnahabhain 
+  - name: Bunnahabhain
     whiskies:
       - name: Stiuireadair
       - name: Toiteach A Dha
+      - name: Staoisha (The Un-Chillfiltered Collection 2013 Signatory Vintage)
   - name: Bushmills
     whiskies:
       - name: Steamship Sherry Cask
-  - name: Caol Ila 
+  - name: Caol Ila
     whiskies:
       - name: Moch
   - name: Cardhu
@@ -110,10 +115,11 @@ distilleries:
   - name: Kinahan's
     whiskies:
       - name: Small Batch
+      - name: The Kasc Project
   - name: Lagavulin
     whiskies:
       - name: Double Matured 2014 Bottling
-  - name: Laphroaig 
+  - name: Laphroaig
     whiskies:
       - name: 10 Year Old
       - name: Brodir
@@ -163,8 +169,11 @@ distilleries:
   - name: Sailor's Home
     whiskies:
       - name: The Haven Single Pot Still
+  - name: Silkie
+    whiskies:
+      - name: The Legendary Silkie
   - name: Starward
-    whiskies: 
+    whiskies:
       - name: Left-Field Single Malt Australian Whisky
   - name: Strathila
     whiskies:
@@ -172,6 +181,9 @@ distilleries:
   - name: Springbank
     whiskies:
       - name: 10 Year Old
+  - name: Tamnavulin
+    whiskies:
+      - name: Double Cask
   - name: Talisker
     whiskies:
       - name: Storm
@@ -184,9 +196,13 @@ distilleries:
     whiskies:
       - name: Slyrs 3 Year Old
       - name: Millstone 6 Year Old
+      - name: James E Pepper 3 Year Old Rye Whiskey
   - name: Tullibardine
     whiskies:
       - name: 225 Sauternes finish
+  - name: Woodford Reserve
+    whiskies:
+      - name: Kentucky Straight Bourbon
   - name: Yushan
     whiskies:
       - name: Sherry Cask
