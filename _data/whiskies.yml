@@ -24,6 +24,9 @@ distilleries:
       - name: Grooves (Committee Edition)
       - name: Traigh Bhan 19 (no 1)
       - name: Uigedail
+  - name: Black & Gold
+    whiskies:
+      - name: 11 Year Old
   - name: Bruichladdich
     whiskies:
       - name: Octomore 7.1
@@ -47,6 +50,9 @@ distilleries:
   - name: Cardhu
     whiskies:
       - name: Gold
+  - name: Compass Box
+    whiskies:
+      - name: Orchard House
   - name: Copeland
     whiskies:
       - name: Merchants Quay Blended Irish Whiskey
@@ -66,6 +72,7 @@ distilleries:
   - name: Edradour
     whiskies:
       - name: Natural Cask Strength Single Malt (Distillery Exclusive)
+      - name: Ballechin Heavily Peated 12 Year Old (Port Cask)
   - name: Flatnöse
     whiskies:
       - name: Blended Malt Scotch Whisky
@@ -88,6 +95,9 @@ distilleries:
   - name: Glenmorangie
     whiskies:
       - name: 12 Year Old Lasanta Sherry Cask Finish
+  - name: Glen Moray
+    whiskies:
+      - name: Single Malt
   - name: Glen Scotia
     whiskies:
       - name: Double Cask Single Malt
@@ -148,6 +158,7 @@ distilleries:
     whiskies:
       - name: Red Spot
       - name: Green Spot
+      - name: Green Spot Leoville Barton Bordeaux Finished Single Pot Still
   - name: Nikka
     whiskies:
       - name: From the Barrel
@@ -166,12 +177,21 @@ distilleries:
     whiskies:
       - name: 12 Year Old
       - name: Lustau Edition
+  - name: Roe & Co
+    whiskies:
+      - name: 13 Year Old Cask Strength
+  - name: Samuel Gelston's
+    whiskies:
+      - name: Single Pot Still
   - name: Sailor's Home
     whiskies:
       - name: The Haven Single Pot Still
   - name: Silkie
     whiskies:
       - name: The Legendary Silkie
+  - name: Single Malt Whiskey Society
+    whiskies:
+      - name: Porridge of Dreams
   - name: Starward
     whiskies:
       - name: Left-Field Single Malt Australian Whisky
